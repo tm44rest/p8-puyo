@@ -1,8 +1,10 @@
 pico-8 cartridge // http://www.pico-8.com
-version 27
+version 29
 __lua__
 -- pico-puyo
 -- by rest
+
+-- test comment
 
 -- globals --
 -------------

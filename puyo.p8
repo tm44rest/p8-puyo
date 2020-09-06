@@ -4,7 +4,7 @@ __lua__
 -- pico-puyo
 -- by rest
 
--- test comment
+-- test comment 2
 
 -- globals --
 -------------
